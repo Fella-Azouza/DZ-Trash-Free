@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/ky6COtU.png"  height="80%" width="80%" alt="landing page"/> 
 
 <h2>Description</h2>
-Dz Trash Free is a secod year project @esi-sba , it is a web application that makes it easy for individuals and organisations to connect for the goal of making the Algerian Environement clean, Django was used for the backend , html, css , js for the frontend, SQLite for the database.
+Dz Trash Free is a secod year project @esi-sba , it is a web application that makes it easy for individuals and organizations to connect for the goal of making the Algerian Environement clean, Django was used for the backend , html, css , js for the frontend, SQLite for the database.
 
 
 <h2>Languages and Utilities Used</h2>
